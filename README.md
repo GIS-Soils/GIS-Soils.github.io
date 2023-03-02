@@ -1,2 +1,2 @@
 # GIS-Soils.github.io
-Learning Digital Soil Mapping
+This is a experimental page about works in digital soil mapping
